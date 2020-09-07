@@ -1,9 +1,12 @@
-<div>
- <img src="https://github.com/rsh456/rsh456/blob/master/banner.png" style="width:100%">
-</div>
-### Hi there 👋
+### Hi there 👋, my name is Rosa
+![](https://github.com/rsh456/rsh456/blob/master/bitmap2.png)
 
-<img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
+
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rsh456)  
 
 
 🌴I'm also in:\
@@ -12,6 +15,7 @@
 </a> 
 
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
 ![Rosa's github stats](https://github-readme-stats.vercel.app/api?username=rsh456&show_icons=true&theme=synthwave)
 

@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Rosa
 
 
-🌴I'm also in:\
+- 🌴I'm also in:
 <a href="https://dev.to/rsh456"> 
   <img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
 </a> 

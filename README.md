@@ -4,14 +4,15 @@
 I like to experiment with new tools and technologies.
  <br />
  <br />
-- 🌴I'm also in:
+ 🌴I'm also in:
 - [x] <a href="https://dev.to/rsh456"> 
   <img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
 </a> 
 
-- ⚡ I’m currently working on this page.
 
-- :bar_chart: Some stats.
+⚡ I’m currently working on this page.
+
+:bar_chart: Some stats.
 
 
 

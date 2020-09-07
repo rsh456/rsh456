@@ -5,14 +5,19 @@ I like to experiment with new tools and technologies.
  <br />
  <br />
 - 🌴I'm also in:
-<a href="https://dev.to/rsh456"> 
+- [x] <a href="https://dev.to/rsh456"> 
   <img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
 </a> 
-<br />
+
+
  <br />
-- 🔭 I’m currently working on this page. 
  <br />
- <br />
+
+- ⚡ I’m currently working on this .
+
+- :bar_chart: Some stats.
+
+
 
 ![Rosa's github stats](https://github-readme-stats.vercel.app/api?username=rsh456&show_icons=true&theme=synthwave)
 

@@ -9,11 +9,7 @@ I like to experiment with new tools and technologies.
   <img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
 </a> 
 
-
- <br />
- <br />
-
-- ⚡ I’m currently working on this .
+- ⚡ I’m currently working on this page.
 
 - :bar_chart: Some stats.
 

@@ -18,6 +18,7 @@ I like to experiment with new tools and technologies.
 
 ![Rosa's github stats](https://github-readme-stats.vercel.app/api?username=rsh456&show_icons=true&theme=synthwave)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsh456" alt="rsh456" /> </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 

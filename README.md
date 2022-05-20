@@ -7,14 +7,15 @@ I like to experiment with new tools and technologies.
  <br />
  <br />
  🌴I'm also in:
-- [x] <a href="https://dev.to/rsh456"> 
+- [X] <a href="https://dev.to/rsh456"> 
   <img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
-</a> 
-- [x] <a href="https://github.com/rosa-soto>
- <img src="https://github.com/rsh456/rsh456/blob/master/icon-github.png" width="80" height="30"> 
+</a>
 
 
-⚡ I’m currently working on this page.
+⚡ I’m currently working on this page and
+- [X] <a href="https://github.com/rosa-soto">
+  <img src="https://github.com/rsh456/rsh456/blob/master/icon-github.png" width="30" height="30"> 
+ </a>
 
 :bar_chart: Some stats.
 

@@ -10,6 +10,8 @@ I like to experiment with new tools and technologies.
 - [x] <a href="https://dev.to/rsh456"> 
   <img src="https://github.com/rsh456/rsh456/blob/master/icon_dev.jpg" width="80" height="30"> 
 </a> 
+- [x] <a href="https://github.com/rosa-soto>
+ <img src="https://github.com/rsh456/rsh456/blob/master/github.jpg" width="80" height="30"> 
 
 
 ⚡ I’m currently working on this page.

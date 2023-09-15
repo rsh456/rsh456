@@ -1,7 +1,6 @@
 ![](https://github.com/rsh456/rsh456/blob/master/bitmap2.png)
 
 <h1 align="center">Hi there 👋, my name is Rosa</h1>
-<h3 align="center">I'm from Peru🐾🐾</h3>
 
 I like to experiment with new tools and technologies.
  <br />
